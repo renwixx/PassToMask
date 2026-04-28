@@ -1,5 +1,5 @@
 # Script Overview
-This script parses credential files, filters passwords by a complexity threshold, and generates corresponding pattern masks.
+This script parses credential files, filters passwords by a complexity threshold, and generates corresponding pattern masks for hashcat.
 
 ## Input Data
 - **File Path**: The location of the text file (supports `login:password` or `password` formats).
